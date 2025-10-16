@@ -262,6 +262,10 @@
   border-radius: 2px;
 }
 
+.skill-title {
+  font-size: 1.3rem;
+}
+
 /* ABOUT */
 .about {
   display: flex;
@@ -363,6 +367,7 @@
   margin: 1.5rem 0 .5rem 0;
   font-size: 1.5rem;
 }
+
 
 
 
